@@ -1,3 +1,8 @@
+**Forked by Jorge Luis de la Torre (jorgedlt) for experimentation and learning Kubernetes/DevOps.**  
+**Original repository:** https://github.com/kubernetes/minikube
+
+---
+
 # minikube
 
 [![Actions Status](https://github.com/kubernetes/minikube/workflows/build/badge.svg)](https://github.com/kubernetes/minikube/actions)
